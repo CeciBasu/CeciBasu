@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Cecilia 👋
 
 🎓 **Estudiante de Ingeniería en Informática** | 📱 **Flutter & Dart Developer**
 
@@ -61,18 +61,18 @@ Me caracterizo por mi capacidad de aprendizaje rápido, resolución de problemas
 
 ### 📌 Proyectos Destacados
 
-* 📱 **[Nombre del Proyecto Mobile]**: Aplicación desarrollada en Flutter para [describir brevemente qué hace].
-* 🐍 **[Nombre del Proyecto Python/SQL]**: Proyecto enfocado en [describir el propósito, ej: gestión de datos].
+* 📱 **Aplicación de la universidad**: Aplicación desarrollada en Flutter para la universidad Católica, usada para alumnos y profesores.
+
 
 ---
 
 ### 🌐 ¡Conectemos!
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/cecilia-basualdo-b925a2295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@correo.com">
+  <a href="mailto:cecicuenca801@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
